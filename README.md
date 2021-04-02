@@ -1,4 +1,7 @@
 ## Hi there 👋 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SWHL)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](liekkaskono@gmail.com)
+[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
 ![](https://visitor-badge.glitch.me/badge?page_id=SWHL.readme)
 
 ---
@@ -13,7 +16,6 @@
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
