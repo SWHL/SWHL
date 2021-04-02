@@ -3,9 +3,8 @@
 ![VisitorCount](https://profile-counter.glitch.me/SWHL/count.svg)
 <br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SWHL)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](liekkaskono@gmail.com)
-[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
+[![Gmail](https://img.shields.io/badge/-liekkaskono@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liekkaskono@gmail.com)](mailto:liekkaskono@gmail.com)
+[![CSDN](https://img.shields.io/badge/-blog.csdn.net/shiwanghualuo-c14438?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
 
 ### Introduction
 - ⭐ I'm a computer visioner about the OCR.
