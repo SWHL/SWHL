@@ -4,7 +4,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/-liekkaskono@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liekkaskono@gmail.com)](mailto:liekkaskono@gmail.com)
-[![CSDN](https://img.shields.io/badge/-blog.csdn.net/shiwanghualuo-c14438?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
+[![CSDN](https://img.shields.io/badge/CSDN-blog.csdn.net%2Fshiwanghualuo-red?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
 
 ### Introduction
 - ⭐ I'm a computer visioner about the OCR.
