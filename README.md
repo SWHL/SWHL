@@ -21,4 +21,4 @@
 
 ### 💻 Github Overview
 <img align="left" alt="SWHL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL)](https://github.com/SWHL/github-readme-stats) 
