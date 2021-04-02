@@ -1,9 +1,7 @@
-### I'm SWHL
-![VisitorCount](https://profile-counter.glitch.me/SWHL/count.svg)
-<br>
-
+## Hello I'm SWHL
 [![Gmail](https://img.shields.io/badge/-liekkaskono@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liekkaskono@gmail.com)](mailto:liekkaskono@gmail.com)
 [![CSDN](https://img.shields.io/badge/CSDN-blog.csdn.net%2Fshiwanghualuo-red?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
+![](https://visitor-badge.glitch.me/badge?page_id=SWHL.readme)
 
 ### 👋 Introduction
 - ⭐ I'm a computer visioner about the OCR.
