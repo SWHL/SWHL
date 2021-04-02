@@ -1,9 +1,9 @@
-## Hello I'm SWHL
+## Hey there! I'm SWHL
 [![Gmail](https://img.shields.io/badge/-liekkaskono@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:liekkaskono@gmail.com)](mailto:liekkaskono@gmail.com)
 [![CSDN](https://img.shields.io/badge/CSDN-blog.csdn.net%2Fshiwanghualuo-red?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/shiwanghualuo)
 ![](https://visitor-badge.glitch.me/badge?page_id=SWHL.readme)
 
-### 👋 Introduction
+### 👨🏻‍💻 About me
 - ⭐ I'm a computer visioner about the OCR.
 - 🌱 I’m currently working in Beijing, China.
 - 👯 I’m looking to collaborate on [RapidOCR](https://github.com/RapidOCR/RapidOCR)
@@ -20,5 +20,7 @@
 
 
 ### 💻 Github Overview
-<img align="left" alt="SWHL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true" />    &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/SWHL">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&theme=buefy&layout=compact" />
+</a>
