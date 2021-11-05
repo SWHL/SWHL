@@ -12,6 +12,8 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
