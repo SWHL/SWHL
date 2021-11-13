@@ -24,5 +24,4 @@
 ### 💻 Github Overview
 <a href="https://github.com/SWHL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&theme=buefy&layout=compact" />
 </a>
