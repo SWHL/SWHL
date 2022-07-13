@@ -11,6 +11,16 @@
 - 📫 How to reach me: liekkaskono@163.com
 
 ### 🛠 Tech Stack
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />&nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&nbsp;
+          
+          
+          
+        
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
@@ -22,6 +32,5 @@
 
 
 ### 💻 Github Overview
-<a href="https://github.com/SWHL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=buefy&show_icons=true" />
-</a>
+![SWHL's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true)
+
