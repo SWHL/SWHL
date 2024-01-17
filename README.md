@@ -1,5 +1,9 @@
- ## Hey there! I'm SWHL
+## Hey there! I'm SWHL 
 
+- 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
+- Hugging Face: [SWHL](https://huggingface.co/SWHL)
+- Gitee: [SWHL](https://gitee.com/SWHL)
+- 邮箱：liekkaskono@163.com
 
 #### 最近动态
 - 2024-01-15：发布博客[论文阅读：TinyGPT-V 论文阅读及源码梳理对应](https://blog.csdn.net/shiwanghualuo/article/details/135539715?spm=1001.2014.3001.5501)
@@ -21,10 +25,14 @@
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
 
----
+#### Stats & Top Languages Card
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=tokyonight&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" width="500" alt="Wakatime"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&hide_title=true&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" height="137"  alt="Wakatime"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=transparent&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" width="500" alt="Wakatime"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&theme=transparent&hide_title=true&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" height="137"  alt="Wakatime"/></td>
   </tr>
 </table>
+
+
+#### 访问人数
+![Visitor Count](https://profile-counter.glitch.me/SWHL/count.svg)
