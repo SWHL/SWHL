@@ -8,6 +8,9 @@
 #### 最近动态
 - 2024-01-15：发布博客[论文阅读：TinyGPT-V 论文阅读及源码梳理对应](https://blog.csdn.net/shiwanghualuo/article/details/135539715?spm=1001.2014.3001.5501)
 
+#### 在线demo
+- []()
+
 #### 获奖经历
 - 2024.01: 第五期飞桨黑客松大模型应用与创意赛-生产力工具赛道三等奖 | 作品：[基于文心一言API的文档知识问答系统](https://aistudio.baidu.com/application/detail/8138)
 - 2022.08: 科大讯飞-医疗发票要素识别挑战赛第三名 | [官网](https://challenge.xfyun.cn/topic/info?type=medical-invoice&option=phb)
