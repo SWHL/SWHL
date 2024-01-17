@@ -33,6 +33,3 @@
   </tr>
 </table>
 
-
-#### 访问人数
-![Visitor Count](https://profile-counter.glitch.me/SWHL/count.svg)
