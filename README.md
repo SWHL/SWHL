@@ -6,9 +6,6 @@
 - Gitee: [SWHL](https://gitee.com/SWHL)
 - 邮箱：liekkaskono@163.com
 
-### 📣 最近动态
-- 2024-01-15：发布博客[论文阅读：TinyGPT-V 论文阅读及源码梳理对应](https://blog.csdn.net/shiwanghualuo/article/details/135539715?spm=1001.2014.3001.5501)
-
 ### 📃 在线Demo（[more](https://huggingface.co/SWHL)）
 - RapidOCR: [魔搭社区](https://www.modelscope.cn/studios/liekkas/RapidOCRDemo/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/RapidOCRDemo)
 - 公式转LaTeX: [魔搭社区](https://www.modelscope.cn/studios/liekkas/RapidLatexOCRDemo/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/RapidLatexOCRDemo)
