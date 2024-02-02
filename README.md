@@ -1,8 +1,10 @@
 ## Hey there! I'm SWHL 
+![](https://komarev.com/ghpvc/?username=SWHL)
 
 - 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
-- Hugging Face: [SWHL](https://huggingface.co/SWHL)
-- 魔搭社区：[liekkas](https://www.modelscope.cn/profile/liekkas)
+- 社区：
+    - Hugging Face: [SWHL](https://huggingface.co/SWHL)
+    - 魔搭社区：[liekkas](https://www.modelscope.cn/profile/liekkas)
 - Gitee: [SWHL](https://gitee.com/SWHL)
 - 邮箱：liekkaskono@163.com
 
