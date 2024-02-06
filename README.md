@@ -35,7 +35,6 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=transparent&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" width="500" alt="Wakatime"/></td>
-    <td><img src="https://stats.justsong.cn/api/github?username=SWHL"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&theme=transparent&hide_title=true&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" height="137"  alt="Wakatime"/></td>
   </tr>
 </table>
