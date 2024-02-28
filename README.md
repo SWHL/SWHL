@@ -1,5 +1,4 @@
 ## Hey there! I'm SWHL 
-![](https://komarev.com/ghpvc/?username=SWHL)
 
 - 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
 - 社区：
