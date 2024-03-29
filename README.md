@@ -9,6 +9,7 @@ I like open source and AI technology because I think open source and AI will bri
 - 社区：
     - Hugging Face: [SWHL](https://huggingface.co/SWHL)
     - 魔搭社区：[liekkas](https://www.modelscope.cn/profile/liekkas)
+    - 微信公众号：RapidAI
 - Gitee: [SWHL](https://gitee.com/SWHL)
 - 邮箱：liekkaskono@163.com
 
