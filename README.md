@@ -1,5 +1,9 @@
 ## Hey there! I'm SWHL 
 
+<a href="https://pypi.org/user/drkostas/">
+    <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+
 I like open source and AI technology because I think open source and AI will bring convenience and help to people in need, and will also make the world a better place. By donating to these projects, you can join me in making AI bring warmth and beauty to more people.
 
 我喜欢开源，喜欢AI技术，因为我认为开源和AI会为有需要的人带来方便和帮助，也会让这个世界变得更好。通过对这些项目的捐赠，您可以和我一道让AI为更多人带来温暖和美好。
