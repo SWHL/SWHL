@@ -1,12 +1,8 @@
 ## Hey there! I'm SWHL 
 
-<p align="center">
+<p>
     <a href="https://pypi.org/user/drkostas/">
         <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
-    </a>
-    <br/> 
-    <a href="https://github.com/drkostas">
-        <img src="https://github-stats-alpha.vercel.app/api?username=SWHL">
     </a>
 </p>
 
@@ -50,6 +46,10 @@ I like open source and AI technology because I think open source and AI will bri
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SWHL) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SWHL) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SWHL)
+
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=SWHL">
+</a>
 
 
 ### 💰 Sponsor
