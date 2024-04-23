@@ -1,8 +1,14 @@
 ## Hey there! I'm SWHL 
 
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
+<p align="center">
+    <a href="https://pypi.org/user/drkostas/">
+        <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
+    </a>
+    <br/> 
+    <a href="https://github.com/drkostas">
+        <img src="https://github-stats-alpha.vercel.app/api?username=SWHL">
+    </a>
+</p>
 
 I like open source and AI technology because I think open source and AI will bring convenience and help to people in need, and will also make the world a better place. By donating to these projects, you can join me in making AI bring warmth and beauty to more people.
 
@@ -40,13 +46,11 @@ I like open source and AI technology because I think open source and AI will bri
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
 
-### 🌟 Stats & Top Languages Card
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SWHL&theme=transparent&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" width="500" alt="Wakatime"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHL&theme=transparent&hide_title=true&layout=compact&hide_border=true&show_icons=true&include_all_commits=true" height="137"  alt="Wakatime"/></td>
-  </tr>
-</table>
+### 📈 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SWHL) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SWHL) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SWHL)
+
 
 ### 💰 Sponsor
 #### 支付宝或微信打赏 (Alipay reward or WeChat reward)
