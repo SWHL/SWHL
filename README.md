@@ -1,7 +1,7 @@
 ## Hey there! I'm SWHL 
 
 <p>
-    <a href="https://pypi.org/user/drkostas/">
+    <a href="https://pypi.org/user/SWHL/">
         <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
     </a>
 </p>
