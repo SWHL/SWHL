@@ -44,8 +44,6 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### 📈 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SWHL) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SWHL) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SWHL)
 
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=SWHL">
@@ -54,15 +52,15 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### 💰 Sponsor
 #### 支付宝或微信打赏 (Alipay reward or WeChat reward)
-通过支付宝或者微信给作者打赏，请写好备注。 (Give the author a reward through Alipay or WeChat.)
+通过支付宝或者微信给作者打赏，请写好备注。 (Give me a reward through Alipay or WeChat.)
 
-<div align="center">
+<div align="left">
     <img src="https://raw.githubusercontent.com/RapidAI/.github/ce6c21bf30935ad441376a29886c63d62392b354/assets/Sponsor.png" width="40%" height="40%">
 </div>
 
 #### Buy me a Coffee
-If you are not in mainland China, you can also support the author through:
+If you are not in mainland China, you can also support me through:
 
-<div align="center">
-    <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="30%" height="30%"></a>
+<div align="left">
+    <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="25%" height="25%"></a>
 </div>
