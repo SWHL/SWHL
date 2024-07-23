@@ -14,6 +14,7 @@ I like open source and AI technology because I think open source and AI will bri
 - 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
 - 社区：
     - Hugging Face: [SWHL](https://huggingface.co/SWHL)
+    - 百度星河社区: [SWHL](https://aistudio.baidu.com/personalcenter/thirdview/57084)
     - 魔搭社区：[liekkas](https://www.modelscope.cn/profile/liekkas)
     - 微信公众号：RapidAI
 - Gitee: [SWHL](https://gitee.com/SWHL)
