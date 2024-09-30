@@ -27,6 +27,7 @@ I like open source and AI technology because I think open source and AI will bri
 - PaddleOCR模型转换： [魔搭社区](https://www.modelscope.cn/studios/liekkas/PaddleOCRModelConverter/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/PaddleOCRModelConverter) 
 
 ### 🏆 获奖经历
+- 2024.09: RapidOCR获得2024中国互联网发展创新与投资大赛（开源）二等奖 | [官网](https://bs.bjos.club/hjgg-n183.html#cons)
 - 2024.01: 第五期飞桨黑客松大模型应用与创意赛-生产力工具赛道三等奖 | 作品：[基于文心一言API的文档知识问答系统](https://aistudio.baidu.com/application/detail/8138)
 - 2022.08: 科大讯飞-医疗发票要素识别挑战赛第三名 | [官网](https://challenge.xfyun.cn/topic/info?type=medical-invoice&option=phb)
 - 2021.04: AIWIN-保险文本视觉认知问答竞赛第三名 | [官网](http://ailab.aiwin.org.cn/competitions/49)
