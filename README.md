@@ -46,11 +46,8 @@ I like open source and AI technology because I think open source and AI will bri
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
 
 ### 📈 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SWHL) 
 
-<a href="https://github.com/SWHL">
-    <img src="https://github-stats-alpha.vercel.app/api?username=SWHL">
-</a>
+[![SWHL GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true&count_private=true)](https://github.com/SWHL)
 
 
 ### 💰 Sponsor
