@@ -20,12 +20,6 @@ I like open source and AI technology because I think open source and AI will bri
 - Gitee: [SWHL](https://gitee.com/SWHL)
 - 邮箱：liekkaskono@163.com
 
-### 📃 在线Demo（[more](https://huggingface.co/SWHL)）
-- RapidOCR: [魔搭社区](https://www.modelscope.cn/studios/liekkas/RapidOCRDemo/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/RapidOCRDemo)
-- 公式转LaTeX: [魔搭社区](https://www.modelscope.cn/studios/liekkas/RapidLatexOCRDemo/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/RapidLatexOCRDemo)
-- 结构化文档：[Hugging Face](https://huggingface.co/spaces/SWHL/RapidStructureDemo)
-- PaddleOCR模型转换： [魔搭社区](https://www.modelscope.cn/studios/liekkas/PaddleOCRModelConverter/summary) | [Hugging Face](https://huggingface.co/spaces/SWHL/PaddleOCRModelConverter) 
-
 ### 🏆 获奖经历
 - 2024.12: [RapidOCR](https://github.com/RapidAI/RapidOCR)加入openKylin社区，并获得2024年度技术新秀奖 | [官方通告](https://mp.weixin.qq.com/s/TwWVz19CX0egOlxgUv-OEQ)
 - 2024.09: [RapidOCR](https://github.com/RapidAI/RapidOCR)获得2024中国互联网发展创新与投资大赛（开源）二等奖 | [官网](https://bs.bjos.club/hjgg-n183.html#cons)
