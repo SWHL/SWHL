@@ -62,5 +62,5 @@ I like open source and AI technology because I think open source and AI will bri
 If you are not in mainland China, you can also support me through:
 
 <div align="left">
-    <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="20%"></a>
+    <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="21%"></a>
 </div>
