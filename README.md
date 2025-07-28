@@ -46,11 +46,6 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### 💰 Sponsor
 
-#### 爱发电赞助
-
-<a href="https://afdian.com/a/swhl_0"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
-
-
 #### 支付宝或微信打赏 (Alipay reward or WeChat reward)
 通过支付宝或者微信给作者打赏，请写好备注。 (Give me a reward through Alipay or WeChat.)
 
@@ -64,3 +59,7 @@ If you are not in mainland China, you can also support me through:
 <div align="left">
     <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="21%"></a>
 </div>
+
+#### 爱发电赞助
+
+<a href="https://afdian.com/a/swhl_0"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
