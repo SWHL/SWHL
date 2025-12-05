@@ -39,10 +39,6 @@ I like open source and AI technology because I think open source and AI will bri
 <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
 <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
 
-### 📈 Stats
-
-[![SWHL GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true&count_private=true)](https://github.com/SWHL)
-
 
 ### 💰 Sponsor
 
@@ -59,7 +55,3 @@ If you are not in mainland China, you can also support me through:
 <div align="left">
     <a href="https://www.buymeacoffee.com/SWHL"><img src="https://raw.githubusercontent.com/RapidAI/.github/main/assets/buymeacoffe.png" width="21%"></a>
 </div>
-
-#### 爱发电赞助
-
-<a href="https://afdian.com/a/swhl_0"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
