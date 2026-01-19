@@ -39,6 +39,9 @@ I like open source and AI technology because I think open source and AI will bri
 <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
 <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
 
+### Stat
+
+![SWHL's Github stats](https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true)
 
 ### 💰 Sponsor
 
