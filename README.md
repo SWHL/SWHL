@@ -21,6 +21,7 @@ I like open source and AI technology because I think open source and AI will bri
 - 邮箱：liekkaskono@163.com
 
 ### 🏆 获奖经历
+- 2026.01: 接受“程序员客栈”采访 → [一个国产开源项目，PyPI千万次下载，GitHub 上狂揽 5K+ Star！](https://mp.weixin.qq.com/s/haMjqBlItcz0f_pRNMXE7w)
 - 2025.12: [RapidOCR](https://github.com/RapidAI/RapidOCR)获得AtomGit官方G-Star项目毕业认证 | [link](https://rapidai.github.io/RapidOCRDocs/main/blog/2026/01/15/2025-atomgit-g-star/)
 - 2024.12: [RapidOCR](https://github.com/RapidAI/RapidOCR)加入openKylin社区，并获得2024年度技术新秀奖 | [官方通告](https://mp.weixin.qq.com/s/TwWVz19CX0egOlxgUv-OEQ)
 - 2024.09: [RapidOCR](https://github.com/RapidAI/RapidOCR)获得2024中国互联网发展创新与投资大赛（开源）二等奖 | [官网](https://bs.bjos.club/hjgg-n183.html#cons)
