@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hey+there!+I'm+SWHL)](https://git.io/typing-svg)
+<div align="center">
 
-<p>
-    <a href="https://pypi.org/user/SWHL/">
-        <img src="https://img.shields.io/badge/PyPi-SWHL-blue?style=flat-square&logo=pypi&logoColor=white">
-    </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+SWHL)](https://git.io/typing-svg)
+
+</div>
 
 I like open source and AI technology because I think open source and AI will bring convenience and help to people in need, and will also make the world a better place. 
 
@@ -43,7 +41,7 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### Stat
 
-![SWHL's Github stats](https://github-readme-stats.vercel.app/api?username=SWHL&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SWHL&theme=flag-india&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ### 💰 Sponsor
 
