@@ -41,7 +41,7 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### Stat
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SWHL&theme=flag-india&hide_border=true&locale=zh_Hans&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SWHL?theme=dark&bg_color=1a1a1a&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true)](https://git.io/awesome-stats-card)
 
 ### 💰 Sponsor
 
