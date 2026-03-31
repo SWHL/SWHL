@@ -41,7 +41,7 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### Stat
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SWHL?theme=dark&bg_color=1a1a1a&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SWHL?cardType=level-alternate&theme=github&fontFamily=Acme&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### 💰 Sponsor
 
