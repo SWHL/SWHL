@@ -29,15 +29,19 @@ I like open source and AI technology because I think open source and AI will bri
 - 2020.11: 山东省第二届数据应用创新创业大赛优秀奖
 
 ### 🛠 技术栈
-&nbsp;&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
-<img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />&nbsp;  
+
+<table>
+  <tr>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"></td>
+    <td style="border: none; padding: 0 8px 0 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></td>
+    <td style="border: none; padding: 0;"><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></td>
+  </tr>
+</table>
 
 ### Stat
 
