@@ -9,12 +9,13 @@ I like open source and AI technology because I think open source and AI will bri
 我喜欢开源，喜欢AI技术，因为我认为开源和AI会为有需要的人带来方便和帮助，也会让这个世界变得更好。
 
 ### 📝 相关信息
+- 个人站点：https://swhl.github.io/
 - 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
 - 社区：
     - Hugging Face: [SWHL](https://huggingface.co/SWHL)
     - 百度星河社区: [SWHL](https://aistudio.baidu.com/personalcenter/thirdview/57084)
     - 魔搭社区：[liekkas](https://www.modelscope.cn/profile/liekkas)
-    - 微信公众号：RapidAI
+    - 微信公众号：SWHL / RapidAI
 - Gitee: [SWHL](https://gitee.com/SWHL)
 - 邮箱：liekkaskono@163.com
 
